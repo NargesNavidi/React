@@ -1,0 +1,40 @@
+@import '~react-image-gallery/styles/css/image-gallery.css';
+
+.project__container {
+  display: flex;
+  flex-direction: row;
+  /* max-width: 1120px; */
+  width: 90%;
+  margin: 0 auto;
+}
+.project__container > div {
+  position: relative;
+  padding: 3rem;
+  border: 1px solid #cfcece;
+  margin: 2rem;
+  /* width: 50%; */
+}
+
+.brief__wrapper {
+  width: 60%;
+}
+
+.site__wrapper {
+  width: 40%;
+}
+.brief__content,
+.site__content {
+  color: #34585c;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+
+.site__content .btn {
+  margin: 2rem 0 1rem;
+}
+
+.image-gallery-image {
+  margin-top: 80px;
+  max-height: none !important;
+}
