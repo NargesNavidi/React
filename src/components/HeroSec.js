@@ -12,20 +12,20 @@ function HeroSec() {
   // const myFunc = (x) => {  
   //   setTimeout(x, 3000)
   // };
-  const [headers, setHeaders] = useState(false);
+  // const [headers, setHeaders] = useState(false);
 
-  const appearText =() =>{
-    setHeaders(true);
-  }
+  // const appearText =() =>{
+  //   setHeaders(true);
+  // }
 
-  window.onload = () => {
-    setTimeout(appearText, 6500)
-  }
+  // window.onload = () => {
+  //   setTimeout(appearText, 6500)
+  // }
 
     return (
       <div className='hero-container'>
         <video src='/videos/video-3.mp4' autoPlay loop muted />
-        <section className={headers ? 'headers' : 'headers hidden'}>
+        <section className='headers'>
           <h1>Front-End Developer</h1>
           <p>What are you waiting for?</p>
           <div className='hero-btns'>
