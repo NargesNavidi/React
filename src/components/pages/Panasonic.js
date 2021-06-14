@@ -8,7 +8,7 @@ import Gallery from '../Gallery';
 export default function Panasonic() {
     const images = [
         {
-            original: 'react2/images/PAC/PAC1.png',
+            original: 'react2/images/PAC/PAC1.jpg',
             thumbnail: 'react2/images/PAC/PAC1Thumb.png',
         },
         {
