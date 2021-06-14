@@ -91,8 +91,8 @@ export default function DealerClick() {
             <Gallery images={images} />
             <Brief name='DealerClick' 
             skills='HTML5, CSS3, WordPress' 
-            projectBrief='Created his web design and prior developed her site' 
-            companyInfo='Kevin Mitchel' />
+            projectBrief='Narges designed and developed a custom WordPress theme from scratch for the DealerClick. This E-Commerce website is 100% responsive.' 
+            companyInfo='DealerClick is a premium DMS provider for independent used car dealers in all 50 states. We offer web-based software solutions for all types of automotive' />
         </>
     )
 }

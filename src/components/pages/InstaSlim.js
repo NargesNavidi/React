@@ -114,9 +114,9 @@ export default function InstaSlim() {
         <>
             <Gallery images={images} />
             <Brief name='InstaSlim' 
-            skills='HTML5, CSS3, OpenCart' 
-            projectBrief='Created her web design and prior developed her site' 
-            companyInfo='Houshang Jalili' />
+            skills='HTML5, CSS3, OpenCart, Git, Sass' 
+            projectBrief='Narges designed and developed a custom OpenCart theme from scratch for the InstaSlim. This E-Commerce website is 100% responsive.' 
+            companyInfo='InstaSlim is an apparel manufacture creating compression shirt for men.' />
         </>
     )
 }

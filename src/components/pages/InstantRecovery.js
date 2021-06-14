@@ -62,9 +62,9 @@ export default function InstantRecovery() {
         <>
             <Gallery images={images} />
             <Brief name='InstantRecoveryMD' 
-            skills='HTML5, CSS3, OpenCart' 
-            projectBrief='Created her web design and prior developed her site' 
-            companyInfo='Monir Jalili' />
+            skills='HTML5, CSS3, OpenCart, Adobe Creative Suite' 
+            projectBrief='Narges designed and developed a custom OpenCart theme from scratch for the InstantRecoveryMD. This E-Commerce website is 100% responsive.' 
+            companyInfo='InstantRecoveryMD is the Original Proven Shapewear for Women post-surgery that has taken America by storm.' />
         </>
     )
 }

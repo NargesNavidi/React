@@ -49,7 +49,7 @@ export default function Panasonic() {
             <Gallery images={images} />
             <Brief name='Panasonic Avionics Corpration' 
             skills='HTML5, CSS3, jQuary' 
-            projectBrief='This the brief content. This the brief content. This the brief content. This the brief content.' 
+            projectBrief='Narges was responsible for the development of both the company website and the Gutenberg editor block for the site.' 
             companyInfo='Panasonic Avionics Corporation, the principal North American subsidiary of Panasonic Corporation, designs, engineers, manufactures, sells and installs customized in-flight entertainment and communications solutions to airlines worldwide.' />
         </>
     )

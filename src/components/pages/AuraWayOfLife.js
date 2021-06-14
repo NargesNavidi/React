@@ -79,7 +79,7 @@ export default function AuraWayOfLife() {
             <Gallery images={images} />
             <Brief name='Aura Way Of Life Spa' 
             skills='HTML5, CSS3, WordPress' 
-            projectBrief='Created her web design and prior developed her site' 
+            projectBrief='Narges was approached by Afsaneh to develop a custom WordPress theme for her spa.' 
             companyInfo='Afsaneh Tesolin is the founder of the total wellness retreat center Aura Way of Life Spa in Laguna Beach, California. Aura Way of Life Spa began as a post operative center for cosmetic plastic surgery patients. This allowed Afsaneh to work with some of the finest plastic surgeons in Southern California. Seeing the amount of recovery time from these surgeries first hand inspired Afsaneh to search for an alternative that offered great results without the downtime. This research led Afsaneh to Exilis.' />
         </>
     )

@@ -30,9 +30,9 @@ export default function OrganicShop() {
         <>
             <Gallery images={images} />
             <Brief name='Organic Shop' 
-            skills='HTML5, CSS3, WordPress' 
-            projectBrief='Created her web design and prior developed her site' 
-            companyInfo='Afsaneh Tesolin is the founder of the total wellness retreat center Aura Way of Life Spa in Laguna Beach, California. Aura Way of Life Spa began as a post operative center for cosmetic plastic surgery patients. This allowed Afsaneh to work with some of the finest plastic surgeons in Southern California. Seeing the amount of recovery time from these surgeries first hand inspired Afsaneh to search for an alternative that offered great results without the downtime. This research led Afsaneh to Exilis.' />
+            skills='HTML5, CSS3, Angular9, Angular 10, Git' 
+            projectBrief='Narges developed a real world E-Commerce application with Angular 9 and upgraded it to Angular 10 ' 
+            companyInfo='Personal Project ' />
         </>
     )
 }

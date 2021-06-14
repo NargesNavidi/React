@@ -67,8 +67,8 @@ export default function ProDogg() {
             <Gallery images={images} />
             <Brief name='ProDogg' 
             skills='HTML5, CSS3, React' 
-            projectBrief='Created her web design and prior developed her site' 
-            companyInfo='Monir and Houshang' />
+            projectBrief='Narges was responsible for both the design and the development of the ProDogg website. The website was built using a custom WordPress theme.' 
+            companyInfo='Prodogg is a division of InstantFigure an apparel company that specializes in compression slimming shapewear. ProDogg offers a sleeveless compression shirt for dogs.' />
         </>
     )
 }

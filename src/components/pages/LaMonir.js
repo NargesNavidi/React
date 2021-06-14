@@ -47,8 +47,8 @@ export default function LaMonir() {
             <Gallery images={images} />
             <Brief name='LaMonir' 
             skills='HTML5, CSS3, WordPress ' 
-            projectBrief='Created her web design and prior developed her site' 
-            companyInfo='Monir Jalili' />
+            projectBrief='Narges designed and developed a custom OpenCart theme from scratch for the LaMonir. This E-Commerce website is 100% responsive.' 
+            companyInfo='Monir Jalili and Houshang Jalili Created and Designed InstantFigure and all its brands which is IF PRO USA, La Monir, IS PRO USA, Insta Slim, IS PRO Tactical, InstantRecoveryMD, InstantBeauty, ProDoggShirt' />
         </>
     )
 }

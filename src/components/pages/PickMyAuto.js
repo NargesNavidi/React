@@ -51,8 +51,8 @@ export default function PickMyAuto() {
             <Gallery images={images} />
             <Brief name='PickMyAuto' 
             skills='HTML5, CSS3, Sass, jQuary ' 
-            projectBrief='Created web design and prior developed her site' 
-            companyInfo='DealerClick Invested to creat a app' />
+            projectBrief='Narges worked with 2 other coworkers on this application which was a Used Car App. ' 
+            companyInfo='DealerClick Invested to creat an app' />
         </>
     )
 }

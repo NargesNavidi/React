@@ -86,9 +86,9 @@ export default function InstantFigure() {
         <>
             <Gallery images={images} />
             <Brief name='InstantFigure INC' 
-            skills='HTML5, CSS3, OpenCart' 
-            projectBrief='Created her web design and prior developed her site' 
-            companyInfo='Monir Jalili' />
+            skills='HTML5, CSS3, OpenCart, PhotoShop, Illustrator' 
+            projectBrief='Narges designed and developed a custom OpenCart theme from scratch for the InstantRecoveryMD. This E-Commerce website is 100% responsive.' 
+            companyInfo='InstantFigure is a world-renowned apparel company offering the ultimate compression slimming shapewear, as well as stylish tops, bottoms, swimwear. InstantFigure founder Monir Jalili is a veteran of the fashion industry. ' />
         </>
     )
 }

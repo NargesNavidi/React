@@ -90,9 +90,9 @@ export default function YourDealerLicense(){
         <>
             <Gallery images={images} />
             <Brief name='Your Dealer License'
-            skills='HTML5, CSS3, WordPress' 
-            projectBrief='Created his web design and prior developed her site' 
-            companyInfo='Kevin Mitchel' />
+            skills='HTML5, CSS3, WordPress, jQuary' 
+            projectBrief='Narges developed a custom WordPress theme from scratch for the Your Dealer License website.' 
+            companyInfo='Your Dealer License is a car dealer company based in Long Beach, CA' />
         </>
     )
 }
