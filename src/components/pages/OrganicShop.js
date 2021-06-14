@@ -6,24 +6,24 @@ import Gallery from '../Gallery';
 export default function OrganicShop() {
     const images = [
         {
-            original: 'images/OrganicShop/Org1.png',
-            thumbnail: 'images/OrganicShop/Org1Thumb.png',
+            original: 'react2/images/OrganicShop/Org1.png',
+            thumbnail: 'react2/images/OrganicShop/Org1Thumb.png',
         },
         {
-            original: 'images/OrganicShop/Org2.png',
-            thumbnail: 'images/OrganicShop/Org2Thumb.png',
+            original: 'react2/images/OrganicShop/Org2.png',
+            thumbnail: 'react2/images/OrganicShop/Org2Thumb.png',
         },
         {
-            original: 'images/OrganicShop/Org3.png',
-            thumbnail: 'images/OrganicShop/Org3Thumb.png',
+            original: 'react2/images/OrganicShop/Org3.png',
+            thumbnail: 'react2/images/OrganicShop/Org3Thumb.png',
         },
         {
-            original: 'images/OrganicShop/Org4.png',
-            thumbnail: 'images/OrganicShop/Org4Thumb.png',
+            original: 'react2/images/OrganicShop/Org4.png',
+            thumbnail: 'react2/images/OrganicShop/Org4Thumb.png',
         },
         {
-            original: 'images/OrganicShop/Org5.png',
-            thumbnail: 'images/OrganicShop/Org5Thumb.png',
+            original: 'react2/images/OrganicShop/Org5.png',
+            thumbnail: 'react2/images/OrganicShop/Org5Thumb.png',
         }
     ]
     return(

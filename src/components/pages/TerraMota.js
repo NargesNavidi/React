@@ -6,64 +6,64 @@ import Gallery from '../Gallery';
 export default function TerraMota() {
     const images = [
         {
-            original: 'images/TerraMota/Terra1.png',
-            thumbnail: 'images/TerraMota/Terra1Thumb.png',
+            original: 'react2/images/TerraMota/Terra1.png',
+            thumbnail: 'react2/images/TerraMota/Terra1Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra2.png',
-            thumbnail: 'images/TerraMota/Terra2Thumb.png',
+            original: 'react2/images/TerraMota/Terra2.png',
+            thumbnail: 'react2/images/TerraMota/Terra2Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra3.png',
-            thumbnail: 'images/TerraMota/Terra3Thumb.png',
+            original: 'react2/images/TerraMota/Terra3.png',
+            thumbnail: 'react2/images/TerraMota/Terra3Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra4.png',
-            thumbnail: 'images/TerraMota/Terra4Thumb.png',
+            original: 'react2/images/TerraMota/Terra4.png',
+            thumbnail: 'react2/images/TerraMota/Terra4Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra5.png',
-            thumbnail: 'images/TerraMota/Terra5Thumb.png',
+            original: 'react2/images/TerraMota/Terra5.png',
+            thumbnail: 'react2/images/TerraMota/Terra5Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra6.png',
-            thumbnail: 'images/TerraMota/Terra6Thumb.png',
+            original: 'react2/images/TerraMota/Terra6.png',
+            thumbnail: 'react2/images/TerraMota/Terra6Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra7.png',
-            thumbnail: 'images/TerraMota/Terra7Thumb.png',
+            original: 'react2/images/TerraMota/Terra7.png',
+            thumbnail: 'react2/images/TerraMota/Terra7Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra8.png',
-            thumbnail: 'images/TerraMota/Terra8Thumb.png',
+            original: 'react2/images/TerraMota/Terra8.png',
+            thumbnail: 'react2/images/TerraMota/Terra8Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra9.png',
-            thumbnail: 'images/TerraMota/Terra9Thumb.png',
+            original: 'react2/images/TerraMota/Terra9.png',
+            thumbnail: 'react2/images/TerraMota/Terra9Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra10.png',
-            thumbnail: 'images/TerraMota/Terra10Thumb.png',
+            original: 'react2/images/TerraMota/Terra10.png',
+            thumbnail: 'react2/images/TerraMota/Terra10Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra11.png',
-            thumbnail: 'images/TerraMota/Terra11Thumb.png',
+            original: 'react2/images/TerraMota/Terra11.png',
+            thumbnail: 'react2/images/TerraMota/Terra11Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra12.png',
-            thumbnail: 'images/TerraMota/Terra12Thumb.png',
+            original: 'react2/images/TerraMota/Terra12.png',
+            thumbnail: 'react2/images/TerraMota/Terra12Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra13.png',
-            thumbnail: 'images/TerraMota/Terra13Thumb.png',
+            original: 'react2/images/TerraMota/Terra13.png',
+            thumbnail: 'react2/images/TerraMota/Terra13Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra14.png',
-            thumbnail: 'images/TerraMota/Terra14Thumb.png',
+            original: 'react2/images/TerraMota/Terra14.png',
+            thumbnail: 'react2/images/TerraMota/Terra14Thumb.png',
         },
         {
-            original: 'images/TerraMota/Terra15.png',
-            thumbnail: 'images/TerraMota/Terra15Thumb.png',
+            original: 'react2/images/TerraMota/Terra15.png',
+            thumbnail: 'react2/images/TerraMota/Terra15Thumb.png',
         }
     ]
     return(

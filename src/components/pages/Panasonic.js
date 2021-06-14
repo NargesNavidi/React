@@ -8,40 +8,40 @@ import Gallery from '../Gallery';
 export default function Panasonic() {
     const images = [
         {
-            original: 'images/PAC/PAC1.png',
-            thumbnail: 'images/PAC/PAC1Thumb.png',
+            original: 'react2/images/PAC/PAC1.png',
+            thumbnail: 'react2/images/PAC/PAC1Thumb.png',
         },
         {
-            original: 'images/PAC/PAC2.png',
-            thumbnail: 'images/PAC/PAC2Thumb.png',
+            original: 'react2/images/PAC/PAC2.png',
+            thumbnail: 'react2/images/PAC/PAC2Thumb.png',
         },
         {
-            original: 'images/PAC/PAC4.png',
-            thumbnail: 'images/PAC/PAC4Thumb.png',
+            original: 'react2/images/PAC/PAC4.png',
+            thumbnail: 'react2/images/PAC/PAC4Thumb.png',
         },
         {
-            original: 'images/PAC/PAC5.png',
-            thumbnail: 'images/PAC/PAC5Thumb.png',
+            original: 'react2/images/PAC/PAC5.png',
+            thumbnail: 'react2/images/PAC/PAC5Thumb.png',
         },
         {
-            original: 'images/PAC/PAC6.png',
-            thumbnail: 'images/PAC/PAC6Thumb.png',
+            original: 'react2/images/PAC/PAC6.png',
+            thumbnail: 'react2/images/PAC/PAC6Thumb.png',
         },
         {
-            original: 'images/PAC/PAC8.png',
-            thumbnail: 'images/PAC/PAC8Thumb.png',
+            original: 'react2/images/PAC/PAC8.png',
+            thumbnail: 'react2/images/PAC/PAC8Thumb.png',
         },
         {
-            original: 'images/PAC/PAC9.png',
-            thumbnail: 'images/PAC/PAC9Thumb.png',
+            original: 'react2/images/PAC/PAC9.png',
+            thumbnail: 'react2/images/PAC/PAC9Thumb.png',
         },
         {
-            original: 'images/PAC/PAC10.png',
-            thumbnail: 'images/PAC/PAC10Thumb.png',
+            original: 'react2/images/PAC/PAC10.png',
+            thumbnail: 'react2/images/PAC/PAC10Thumb.png',
         },
         {
-            original: 'images/PAC/PAC11.png',
-            thumbnail: 'images/PAC/PAC11Thumb.png',
+            original: 'react2/images/PAC/PAC11.png',
+            thumbnail: 'react2/images/PAC/PAC11Thumb.png',
         },
     ]
     return(
