@@ -10,13 +10,13 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem 
-                src='images/PanasonicAvi.jpg'
+                src='react2/images/PanasonicAvi.jpg'
                 text='Explore Panasonic Avionics Live'
                 label='Panasonic Avionics'
                 path='/panasonic'
             />
             <CardItem 
-                src='images/AuraWayOfLifeSpa.jpg'
+                src='react2/images/AuraWayOfLifeSpa.jpg'
                 text='Explore Aura Way Of Life Live'
                 label='Aura Way Of Life Spa'
                 path='/portfolio'
@@ -24,20 +24,20 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem 
-                src='images/PickMyAuto1.jpg'
+                src='react2/images/PickMyAuto1.jpg'
                 text='Explore in Portfolio'
                 label='Portfolio'
                 path='/portfolio'
             />
             <a href="https://dev.nnavidi.com/">
             <CardItem 
-                src='images/Org.jpg'
+                src='react2/images/Org.jpg'
                 text='Explore in Portfolio'
                 label='Organic Shop' 
             />
             </a>
             <CardItem 
-                src='images/IF1.jpg'
+                src='react2/images/IF1.jpg'
                 text='Explore in Portfolio'
                 label='Portfolio'
                 path='/portfolio'

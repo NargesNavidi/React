@@ -12,19 +12,19 @@ export default function Portfolio() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem 
-                src='images/PanasonicAvi.jpg'
+                src='react2/images/PanasonicAvi.jpg'
                 text='Explore Panasonic Avionics Live'
                 label='Panasonic Avionics'
                 path='./panasonic'
             />
             <CardItem 
-                src='images/AuraWayOfLifeSpa.jpg'
+                src='react2/images/AuraWayOfLifeSpa.jpg'
                 text='Explore Aura Way Of Life Live'
                 label='Aura Way Of Life Spa'
                 path='./AuraWayOfLife'
             />
             <CardItem 
-                src='images/Org.jpg'
+                src='react2/images/Org.jpg'
                 text='Explore Aura Way Of Life Live'
                 label='Organic Shop'
                 path='/OrganicShop'
@@ -32,21 +32,21 @@ export default function Portfolio() {
           </ul>
           <ul className='cards__items'>
             <CardItem 
-                src='images/IR.jpg'
+                src='react2/images/IR.jpg'
                 text='Explore in Portfolio'
                 label='InstantRecovery'
                 path='/InstantRecovery'
             />
             
             <CardItem 
-                src='images/ProDogg.jpg'
+                src='react2/images/ProDogg.jpg'
                 text='Explore in Portfolio'
                 label='ProDogg'
                 path='/ProDogg' 
             />
 
             <CardItem 
-                src='images/IS1.jpg'
+                src='react2/images/IS1.jpg'
                 text='Explore in Portfolio'
                 label='InstaSlim'
                 path='/InstaSlim'
@@ -54,20 +54,20 @@ export default function Portfolio() {
           </ul>
           <ul className='cards__items'>
             <CardItem 
-                src='images/IF1.jpg'
+                src='react2/images/IF1.jpg'
                 text='Explore in Portfolio'
                 label='InstantFigure'
                 path='/InstantFigure'
             />
 
             <CardItem 
-                src='images/ISPro.jpg'
+                src='react2/images/ISPro.jpg'
                 text='Explore in Portfolio'
                 label='ISPro'
                 path='/ISPro'
             />
             <CardItem 
-                src='images/LaMonir.jpg'
+                src='react2/images/LaMonir.jpg'
                 text='Explore in Portfolio'
                 label='LaMonir' 
                 path='/LaMonir' 
@@ -75,20 +75,20 @@ export default function Portfolio() {
           </ul>
           <ul className='cards__items'>
             <CardItem 
-                src='images/IrvineMotors.jpg'
+                src='react2/images/IrvineMotors.jpg'
                 text='Explore in Portfolio'
                 label='Irvine MotorCars'
                 path='/IrvineMotorCars'
             />
 
             <CardItem 
-                src='images/PickMyAuto1.jpg'
+                src='react2/images/PickMyAuto1.jpg'
                 text='Explore in Portfolio'
                 label='PickMyAuto'
                 path='/PickMyAuto'
             />
             <CardItem 
-                src='images/DC.png'
+                src='react2/images/DC.png'
                 text='Explore in Portfolio'
                 label='DealerClick' 
                 path='/DealerClick' 
@@ -96,20 +96,20 @@ export default function Portfolio() {
           </ul>
           <ul className='cards__items'>
             <CardItem 
-                src='images/TerraMota.png'
+                src='react2/images/TerraMota.png'
                 text='Explore in Portfolio'
                 label='TerraMota'
                 path='/TerraMota'
             />
 
             <CardItem 
-                src='images/DriveOff.jpg'
+                src='react2/images/DriveOff.jpg'
                 text='Explore in Portfolio'
                 label='DriveOffAuto'
                 path='/DriveOff'
             />
             <CardItem 
-                src='images/123CarBuying.png'
+                src='react2/images/123CarBuying.png'
                 text='Explore in Portfolio'
                 label='123CarBuying' 
                 path='/123CarBuying' 
