@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import '../App.css';
 import './HeroSec.css';
 import { Button } from './Button';
-import HeroSecContent from './HeroSecContent';
 
 function HeroSec() {
   // window.onload = function() {
@@ -32,12 +31,14 @@ function HeroSec() {
             <Button
                 className='btns'
                 buttonStyle='btn--outline'
+                path='/Portfolio'
                 buttonSize='btn--large'>
-                Check My Work
+                Check My Works
             </Button>
             <Button
                 className='btns'
                 buttonStyle='btn--primary'
+                path='/Bio#contact'
                 buttonSize='btn--large'>
                 Contact Me
             </Button>

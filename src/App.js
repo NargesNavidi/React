@@ -30,10 +30,10 @@ function App(props) {
         <Navbar />
         <Switch>
             <Route path="/" exact component={Home} />
-            <Route path="/portfolio" component={Portfolio} />
-            <Route path="/bio" component={Bio} />
+            <Route path="/Portfolio" component={Portfolio} />
+            <Route path="/Bio" component={Bio} />
             <Route path="/sign-up" component={SignUp} />
-            <Route path="/panasonic" component={Panasonic} />
+            <Route path="/Panasonic" component={Panasonic} />
             <Route path="/AuraWayOfLife" component={AuraWayOfLife} />
             <Route path="/InstantRecovery" component={InstantRecovery} />
             <Route path="/InstantFigure" component={InstantFigure} />

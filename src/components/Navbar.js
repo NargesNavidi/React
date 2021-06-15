@@ -19,11 +19,10 @@ function Navbar() {
       }
   };
 
-  useEffect(() => {
-    showButton()
-  }, []);
+  // useEffect(() => {
+  //   showButton()
+  // }, []);
 
-  // const [scrolled, setScrolled] = useState(window.scrollY);
   
   const changeBackground = () => {
     if (window.scrollY >= 80){
@@ -57,27 +56,27 @@ function Navbar() {
             </li>
             <li className='nav-item'>
               <Link
-                to='/portfolio'
+                to='/Portfolio'
                 className='nav-links'
                 onClick={closeMobMenu}>
                 Portfolio
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/bio' className='nav-links' onClick={closeMobMenu}>
+              <Link to='/Bio' className='nav-links' onClick={closeMobMenu}>
                 Bio
               </Link>
             </li>
             <li className='nav-item'>
               <Link
-                to='/sign-up'
+                to='/Bio#contact'
                 className='nav-links-mobile'
                 onClick={closeMobMenu}>
-                Sign Up
+                Contact Me
               </Link>
             </li>
           </ul>
-          {button && <Button path='/bio#contact' buttonStyle='btn--outline'>Contact Us</Button>}
+          {button && <Button path='/Bio#contact' buttonStyle='btn--outline'>Contact Me</Button>}
         </div>
       </nav>
     </>
