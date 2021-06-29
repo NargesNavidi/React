@@ -1,8 +1,8 @@
 import React from 'react';
 import '../../App.css';
 import Brief from '../Brief';
-import Site from '../Site';
-import HeroSec from '../HeroSec';
+// import Site from '../Site';
+// import HeroSec from '../HeroSec';
 import Gallery from '../Gallery';
 
 export default function Panasonic() {
@@ -50,7 +50,9 @@ export default function Panasonic() {
             <Brief name='Panasonic Avionics Corpration' 
             skills='HTML5, CSS3, jQuary' 
             projectBrief='Narges was responsible for the development of both the company website and the Gutenberg editor block for the site.' 
-            companyInfo='Panasonic Avionics Corporation, the principal North American subsidiary of Panasonic Corporation, designs, engineers, manufactures, sells and installs customized in-flight entertainment and communications solutions to airlines worldwide.' />
+            companyInfo='Panasonic Avionics Corporation, the principal North American subsidiary of Panasonic Corporation, designs, engineers, manufactures, sells and installs customized in-flight entertainment and communications solutions to airlines worldwide.' 
+            path='www.panasonic.aero'
+            />
         </>
     )
 }
