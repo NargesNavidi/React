@@ -32,7 +32,7 @@ export default function OrganicShop() {
             <Brief name='Organic Shop' 
             skills='HTML5, CSS3, Angular9, Angular 10, Git' 
             projectBrief='Narges developed a real world E-Commerce application with Angular 9 and upgraded it to Angular 10 ' 
-            companyInfo='Personal Project ' 
+            companyInfo='Personal Project' 
             href="https://dev.nnavidi.com/"
             />
         </>
