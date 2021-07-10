@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../../App.css';
 import Brief from '../Brief';
 // import Site from '../Site';
@@ -51,7 +52,7 @@ export default function Panasonic() {
             skills='HTML5, CSS3, jQuary' 
             projectBrief='Narges was responsible for the development of both the company website and the Gutenberg editor block for the site.' 
             companyInfo='Panasonic Avionics Corporation, the principal North American subsidiary of Panasonic Corporation, designs, engineers, manufactures, sells and installs customized in-flight entertainment and communications solutions to airlines worldwide.' 
-            path='www.panasonic.aero'
+            href='https://www.panasonic.aero/'
             />
         </>
     )

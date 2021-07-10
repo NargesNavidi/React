@@ -32,7 +32,9 @@ export default function IrvineMotorCars() {
             <Brief name='Irvine MotorCars' 
             skills='HTML5, CSS3, Sass, jQuary ' 
             projectBrief='Created web design and prior developed her site' 
-            companyInfo='Irvine MotorCars Invested to creat a app' />
+            companyInfo='Irvine MotorCars Invested to creat a app'
+            href="https://irvinemotorcars.com/"
+            />
         </>
     )
 }

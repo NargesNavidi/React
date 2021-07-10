@@ -24,7 +24,9 @@ export default function CarBuying() {
             <Brief name='123CarBuying' 
             skills='HTML5, CSS3, Sass, jQuary ' 
             projectBrief='Created web design and prior developed her site' 
-            companyInfo='Irvine MotorCars Invested to creat a app' />
+            companyInfo='Irvine MotorCars Invested to creat a app' 
+            href="https://www.123carbuying.com/"
+            />
         </>
     )
 }

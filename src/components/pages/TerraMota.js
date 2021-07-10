@@ -72,7 +72,9 @@ export default function TerraMota() {
             <Brief name='TerraMota' 
             skills='HTML5, CSS3, WordPress' 
             projectBrief='Created his web design and prior developed her site' 
-            companyInfo='Terra Mota' />
+            companyInfo='Terra Mota' 
+            href="https://terramotaautogroup.com/"
+            />
         </>
     )
 }

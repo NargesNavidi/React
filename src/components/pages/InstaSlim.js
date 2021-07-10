@@ -116,7 +116,9 @@ export default function InstaSlim() {
             <Brief name='InstaSlim' 
             skills='HTML5, CSS3, OpenCart, Git, Sass' 
             projectBrief='Narges designed and developed a custom OpenCart theme from scratch for the InstaSlim. This E-Commerce website is 100% responsive.' 
-            companyInfo='InstaSlim is an apparel manufacture creating compression shirt for men.' />
+            companyInfo='InstaSlim is an apparel manufacture creating compression shirt for men.' 
+            href="https://instaslim.com/"
+            />
         </>
     )
 }

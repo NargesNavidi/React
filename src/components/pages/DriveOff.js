@@ -60,7 +60,9 @@ export default function DriveOff() {
             <Brief name='DriveOff' 
             skills='HTML5, CSS3, WordPress' 
             projectBrief='Created his web design and prior developed her site' 
-            companyInfo='Kevin Mitchel' />
+            companyInfo='Kevin Mitchel' 
+            href="https://driveoffauto.com/"
+            />
         </>
     )
 }

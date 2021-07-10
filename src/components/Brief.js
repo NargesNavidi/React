@@ -1,6 +1,7 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Brief.css';
-import { Button } from './Button';
+import { PortfolioButton } from './PortfolioButton';
 
 
 function Brief(props) {
@@ -18,13 +19,14 @@ function Brief(props) {
                 <div className='site__content' >
                     <h3>{props.name}</h3>
                     <p>{props.companyInfo} </p>
-                    <Button
-                    className='btns'
-                    buttonStyle='btn--primary'
-                    buttonSize='btn--large'
-                    path={props.path}>
-                        View Website
-                    </Button>
+                        <PortfolioButton
+                        className='btns'
+                        buttonStyle='btn--primary'
+                        buttonSize='btn--large'
+                        href={props.href}
+                        >
+                            View Website
+                        </PortfolioButton>
                 </div>
         
         </div>
