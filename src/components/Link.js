@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import {Link as ReactLink} from 'react-router';
 
 export default class Link extends React.Component {
   
@@ -27,7 +28,7 @@ export default class Link extends React.Component {
     const isInternal = this.isInternal(to);
 
     if (isInternal) {
-      return (<ReactLink to={to} {...rest}>{children}</ReactLink>);
+      return (<Link to={to} {...rest}>{children}</Link>);
     } else {
       return (<a href={to} target="_blank" {...rest}>{children}</a>);
     }

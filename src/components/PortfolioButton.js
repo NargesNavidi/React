@@ -1,5 +1,6 @@
 import React from 'react';
-import './Button.css'
+import './Button.css';
+import Link from './Link.js'
 
 const STYLES = ['btn--primary', 'btn--outline'];
 
@@ -20,7 +21,7 @@ export const PortfolioButton = ({
   const checkButtonSize = SIZES.includes(buttonSize) ? buttonSize : SIZES[0];
 
   return (
-    <a href={href} className='btn-mobile'>
+    <Link to={href} className='btn-mobile'>
       <button
         className={`btn ${checkButtonStyle} ${checkButtonSize}`}
         onClick={onClick}
@@ -28,6 +29,6 @@ export const PortfolioButton = ({
         >
         {children}
       </button>
-    </a>
+    </Link>
   );
 };
